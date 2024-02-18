@@ -1,0 +1,47 @@
+Demo access Token : HYKQZAd29AIaq0xpfcAq1pmWNgbgXlFxUNnA4VjA0LAUTblsFXthpAfXQI6O
+To create User
+{
+  "userName" : "John Doe",
+  "userEmail" : "test@nodomain.com",
+  "userPassword" : "abc!@#"
+}
+
+
+[
+
+	{
+		"job_source_type" : "DICE",
+		"job_section_type" : "PHP",
+		"job_url" : "https://www.dice.com/job-detail/de14108d-be0e-4780-b301-a6919e692441",
+		"job_post_date" : "2024-02-17",
+		"html": {
+			
+			"job_title_tags": "h1,data-cy,jobTitle",
+			"job_location_tags": "li,data-cy,location",
+			"job_company_tags": "a,data-cy,companyNameLink",
+			"job_location_type_tags": "div,class,job-overview_jobDetails",
+			"job_salary_tags": "div,class,job-overview_jobDetails"
+		}
+		
+	},
+
+
+	{
+		"job_source_type" : "DICE",
+		"job_section_type" : "PHP",
+		"job_url" : "https://www.dice.com/job-detail/36b1b996-cb8c-46e8-8560-40402c0dbffc",
+		"job_post_date" : "2024-02-17",
+		"html": {
+			
+			"job_title_tags": "h1,data-cy,jobTitle",
+			"job_location_tags": "li,data-cy,location",
+			"job_company_tags": "a,data-cy,companyNameLink",
+			"job_location_type_tags": "div,class,job-overview_jobDetails",
+			"job_salary_tags": "div,class,job-overview_jobDetails"
+		}
+		
+	}
+
+]
+
+
